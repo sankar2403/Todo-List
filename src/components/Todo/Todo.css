@@ -1,0 +1,22 @@
+.todo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+
+.fa-trash{
+    font-size: 25px;
+}
+
+.item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.deleteTodo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+}
